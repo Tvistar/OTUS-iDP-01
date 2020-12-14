@@ -63,7 +63,6 @@
 				AAB116C22587EEA300EF941C /* Screens */,
 				AAB116BC2587EE1A00EF941C /* Model */,
 				AA74A4AC2586B9F000A22633 /* OTUS_iDP_01App.swift */,
-				AA74A4AE2586B9F000A22633 /* MainView.swift */,
 				AA74A4B02586B9F300A22633 /* Assets.xcassets */,
 				AA74A4B52586B9F300A22633 /* Info.plist */,
 				AA74A4B22586B9F300A22633 /* Preview Content */,
@@ -90,6 +89,7 @@
 		AAB116C22587EEA300EF941C /* Screens */ = {
 			isa = PBXGroup;
 			children = (
+				AA74A4AE2586B9F000A22633 /* MainView.swift */,
 				AAB116C32587EEC600EF941C /* NewView.swift */,
 				AAB116C72587EFB300EF941C /* FavoritesView.swift */,
 				AAB116CA2587EFDC00EF941C /* TopListView.swift */,
